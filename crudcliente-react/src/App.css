@@ -1,7 +1,7 @@
 .cliente-container{
   width: 100%;
   max-width: 1200px;
-  padding: 5 5px;
+  padding: 10px 10px;
   margin: 30px auto;
 }
 
@@ -25,10 +25,14 @@
 }
 
 table, th, td{
-  border: 1px solid black;
   margin-top: 5px;
   margin-left: 5px;
   margin-right: 5px;
-  padding: 10px;
+  padding: 5px;
   text-align: left;
+}
+
+table{
+  width: 100%;
+  border: 1px solid black;
 }
